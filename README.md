@@ -93,4 +93,4 @@ If you encounter any issues, please refer to the [Issues](https://github.com/BYP
 
 - [GitHub Repository](https://github.com/BYPASS-ALT/discord-raider-tool)
 - [Issues Tab](https://github.com/BYPASS-ALT/discord-raider-tool/issues)
-- [Youtube Tutorial](https://www.youtube.com/watch?v=2xgz9LC-ot4)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=2xgz9LC-ot4)
