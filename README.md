@@ -23,13 +23,13 @@
 2. **Install Dependencies**  
    Run the following command to install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. **Run the Tool**  
    You can start the tool by running the following command:
    ```bash
-   python bot.py
+   python3 bot.py
    ```
 
 4. If you face any issues, visit the [Issues](https://github.com/BYPASS-ALT/discord-raider-tool/issues) tab for help!
@@ -93,3 +93,4 @@ If you encounter any issues, please refer to the [Issues](https://github.com/BYP
 
 - [GitHub Repository](https://github.com/BYPASS-ALT/discord-raider-tool)
 - [Issues Tab](https://github.com/BYPASS-ALT/discord-raider-tool/issues)
+- [Youtube Tutorial(https://www.youtube.com/watch?v=2xgz9LC-ot4)
